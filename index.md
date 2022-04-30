@@ -6,5 +6,5 @@ namely Services/API development.
 
 See below for more information about me and some of my work.
 
-- [Work History](work.html)
+- [Work History](work-history.html)
 - [Projects](projects.html)
